@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7cc8c0dc-c10b-4406-a854-12a8f8d4cfd1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/public/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/stag/public/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/App/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/Components/SearchBar/SearchBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/SearchBar/SearchBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/Components/SearchBar/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/SearchBar/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/Components/SearchResults/SearchResults.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/SearchResults/SearchResults.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <workItem from="1674050839044" duration="166000" />
       <workItem from="1674051042844" duration="186000" />
       <workItem from="1674055418665" duration="15000" />
-      <workItem from="1674055479752" duration="3816000" />
+      <workItem from="1674055479752" duration="4766000" />
     </task>
     <servers />
   </component>
