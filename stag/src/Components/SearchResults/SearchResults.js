@@ -2,7 +2,7 @@ import React from 'react';
 import './SearchResults.css';
 import './Tracklist';
 
-class SearchResults extends React.Component {
+export class SearchResults extends React.Component {
     render() {
         return (
             <div className="SearchResults">
@@ -12,5 +12,3 @@ class SearchResults extends React.Component {
         )
     }
 }
-
-export default SearchResults
