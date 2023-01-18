@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cc8c0dc-c10b-4406-a854-12a8f8d4cfd1" name="Changes" comment="" />
+    <list default="true" id="7cc8c0dc-c10b-4406-a854-12a8f8d4cfd1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/stag/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/logo.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +47,8 @@
       <updated>1674050831982</updated>
       <workItem from="1674050839044" duration="166000" />
       <workItem from="1674051042844" duration="186000" />
+      <workItem from="1674055418665" duration="15000" />
+      <workItem from="1674055479752" duration="172000" />
     </task>
     <servers />
   </component>
