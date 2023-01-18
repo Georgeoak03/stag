@@ -3,13 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7cc8c0dc-c10b-4406-a854-12a8f8d4cfd1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/stag/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/public/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/stag/public/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/App/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +19,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2KVDN9VcNTRsuivfmFKyHw4eqxo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +39,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stag/src/Components" />
+      <recent name="$PROJECT_DIR$/stag/src/Components/App" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +56,7 @@
       <workItem from="1674050839044" duration="166000" />
       <workItem from="1674051042844" duration="186000" />
       <workItem from="1674055418665" duration="15000" />
-      <workItem from="1674055479752" duration="172000" />
+      <workItem from="1674055479752" duration="3816000" />
     </task>
     <servers />
   </component>
