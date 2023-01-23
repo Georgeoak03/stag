@@ -4,9 +4,8 @@
     <list default="true" id="7cc8c0dc-c10b-4406-a854-12a8f8d4cfd1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stag/src/Components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/src/Components/Playlist/Playlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/Playlist/Playlist.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stag/src/Components/SearchBar/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/SearchBar/SearchBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stag/src/Components/SearchResults/SearchResults.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/SearchResults/SearchResults.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stag/src/Components/Track/Track.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/Track/Track.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stag/src/Components/TrackList/TrackList.js" beforeDir="false" afterPath="$PROJECT_DIR$/stag/src/Components/TrackList/TrackList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
