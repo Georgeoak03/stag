@@ -1,6 +1,6 @@
 let accessToken = "";
 const clientId = "ee0d2fafbf11471293e806e89583faeb"
-const redirectUri = "http://localhost:3000/"
+const redirectUri = "http://absurd-temper.surge.sh"
 
 const Spotify = {
     getAccessToken() {
